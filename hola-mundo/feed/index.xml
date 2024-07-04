@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentarios para Pablo D.A	</title>
-	<atom:link href="https://pabloanalyst.github.io/demo/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pabloanalyst.github.io/demo</link>
+	Comentarios en: ¡Hola mundo!	</title>
+	<atom:link href="https://pabloanalyst.github.io/demo/hola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pabloanalyst.github.io/demo/hola-mundo/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 Jul 2024 00:49:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>
-		Comentario en ¡Hola mundo! por Un comentarista de WordPress		</title>
+		Por: Un comentarista de WordPress		</title>
 		<link>https://pabloanalyst.github.io/demo/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
